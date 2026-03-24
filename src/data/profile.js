@@ -109,7 +109,7 @@ export const EXPERIENCES = [
 
 export const SOCIAL_LINKS = [
   { name: 'LinkedIn', url: 'https://linkedin.com/in/vini-barros/', icon: Linkedin, color: '#0A66C2' },
-  { name: 'GitHub', url: 'https://github.com/vinibarros', icon: Github, color: '#fff' },
+  { name: 'GitHub', url: 'https://github.com/VdBarros/', icon: Github, color: '#fff' },
   { name: 'Email', url: 'mailto:vinibarros.sp@gmail.com', icon: Mail, color: '#EA4335' },
   { name: 'Phone', url: 'tel:+5567996483388', icon: Phone, color: '#25D366' },
 ];
